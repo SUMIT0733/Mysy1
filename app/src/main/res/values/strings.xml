@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Mysy</string>
+    <string-array name="renew">
+        <item>Fresh</item>
+        <item>1st Renew</item>
+        <item>2nd Renew</item>
+        <item>3rd Renew</item>
+    </string-array>
+
+    <string-array name="hostel">
+        <item>Hostel(PRIVATE)</item>
+        <item>Hostel(GIA)</item>
+        <item>Local lite</item>
+        <item>Paying Guest</item>
+        <item>none</item>
+
+    </string-array>
+
+    <string-array name="stream">
+        <item>ENGG. / PARA-MEDIACL / D2D</item>
+        <item>MEDICAL / DENTAL</item>
+        <item>DIPLOMA</item>
+        <item>BA/B.COM/B.Sc/BBA/BCA</item>
+    </string-array>
+
+    <string name="lable_list">Document</string>
+    <string name="lable_step">Steps</string>
+    <string name="lable_home">Home</string>
+    <string name="lable_calculate">Calculate</string>
+    <string name="lable_video">Videos</string>
+
+
+    <string name="main_home">ABOUT</string>
+    <string name="head_1">સહાય માટેની પાત્રતા</string>
+    <string name="head_1_en">(Eligibility Criteria)</string>
+    <string name="head_1_topic_1">\u25cf\u00a0\u00a0 	રાજ્યમાં આવેલ માન્ય બોર્ડની ધોરણ-૧૦ અથવા ધોરણ-૧૨ વિજ્ઞાન પ્રવાહ / સામાન્ય પ્રવાહની પરીક્ષામાં ૮૦ કે તેથી વધુ પર્સેન્ટાઈલ મેળવી ડીપ્લોમા અથવા સ્નાતક અભ્યાસક્રમમાં પ્રવેશ મેળવનાર વિદ્યાર્થીઓ....</string>
+    <string name="head_1_topic_2">\u25cf\u00a0\u00a0 રાજ્યમાં આવેલ માન્ય યુનિ/બોર્ડની ડીપ્લોમાની પરીક્ષામાં ૬૫ ટકાથી વધુ ગુણ મેળવી સ્નાતક અભ્યાસક્રમમાં પ્રવેશ મેળવનાર વિદ્યાર્થીઓ....</string>
+    <string name="head_1_topic_3">\u25cf\u00a0\u00a0  ₹ ૬.૦૦ લાખ સુધીની કૌટુંબિક વાર્ષિક આવક ધરાવનાર વિદ્યાર્થીઓ...... </string>
+
+    <string name="head_2">મળવાપાત્ર સહાય </string>
+    <string name="head_2_en">(Types of scholarship)</string>
+    <string name="head_2_topic_1"> ૧)\u00a0\u00a0  સ્વ-નિર્ભર અભ્યાસક્રમની નિયત અવધિ માટે પ્રતિ વર્ષ ટ્યુશન ફી સહાય</string>
+    <string name="head_2_topic_2"> ૨)\u00a0\u00a0 પ્રવર્તમાન રહેઠાણના તાલુકા બહાર હોસ્ટેલમાં રહેતા અને સરકારી/અનુદાનિત છાત્રાલયમાં પ્રવેશ નહી મળ્યો હોય તેવા વિદ્યાર્થીઓને અભ્યાસક્રમની નિયત અવધિ માટે પ્રતિ વર્ષ ૧૦ માસ લેખે  રહેવા-જમવા માટેની સહાય</string>
+    <string name="head_2_topic_3"> ૩)\u00a0\u00a0 ઇજનેરી, મેડીકલ જેવા પ્રોફેશનલ સ્વ-નિર્ભર અભ્યાસક્રમોમાં પ્રવેશ મેળવનાર વિદ્યાર્થીઓને એક વાર સાધન-પુસ્તક સહાય </string>
+
+
+    <string name="head_3">ટ્યુશન ફી સહાય</string>
+    <string name="head_3_topic_1">\u25BA\u00a0\u00a0 મેડીકલ, ડેન્ટલ જેવા સ્નાતક કક્ષાના સ્વ-નિર્ભર અભ્યાસક્રમો માટે ટ્યુશન ફીની ૫૦ ટકા રકમ મહત્તમ રૂ. ૨.૦૦ લાખ ની મર્યાદામાં </string>
+    <string name="head_3_topic_2">\u25BA\u00a0\u00a0 ઇજનેરી, ફાર્મસી, આયુર્વેદ, હોમીયોપેથી, નર્સીંગ, ફીઝીયોથેરાપી જેવા સ્નાતક કક્ષાના સ્વ-નિર્ભર અભ્યાસક્રમો માટે ટ્યુશન ફીની ૫૦ ટકા રકમ મહત્તમ રૂ.૫૦,૦૦૦ ની મર્યાદામાં </string>
+    <string name="head_3_topic_3">\u25BA\u00a0\u00a0 ડિપ્લોમા કક્ષાના સ્વ-નિર્ભર અભ્યાસક્રમો માટે ટ્યુશન ફીની ૫૦ ટકા રકમ મહત્તમ રૂ.૨૫,૦૦૦ ની મર્યાદામાં  </string>
+    <string name="head_3_topic_4">\u25BA\u00a0\u00a0 બી.એ., બી.કોમ, બી.એસ.સી., બી.બી.એ, બી.સી.એ.  જેવા નોન-પ્રોફેશનલ સ્નાતક કક્ષાના સ્વ-નિર્ભર અભ્યાસક્રમની ટ્યુશન ફીની ૫૦ ટકા રકમ મહત્તમ રૂ.૧૦,૦૦૦ ની મર્યાદામાં</string>
+    <string name="head_3_topic_5">\u25BA\u00a0\u00a0 ડિપ્લોમા ટુ ડીગ્રી સ્વ-નિર્ભર અભ્યાસક્રમો માટે ટ્યુશન ફીની ૫૦ ટકા રકમ મહત્તમ રૂ.૫૦,૦૦૦ ની મર્યાદામાં </string>
+    <string name="head_3_topic_6">\u25BA\u00a0\u00a0 સરકારી મેડીકલ, ડેન્ટલ, ઇજનેરી કોલેજોમાં જનરલ બેઠકો પર અનામત કક્ષાના ઉમેદવારો જે સંખ્યામાં પ્રવેશ મેળવે તેટલા વિદ્યાર્થીઓ સ્વ-નિર્ભર કોલેજમાં પ્રવેશ લે તો તેઓને સ્વ-નિર્ભર અને સરકારી કોલેજની ફીના તફાવતની રકમ મળવાપાત્ર </string>
+
+    <string name="head_4">રહેવા-જમવા સહાય</string>
+    <string name="head_4_topic_1">\u25ba\u00a0\u00a0 પાત્રતા ધરાવતા અને સ્નાતક અથવા ડિપ્લોમા અભ્યાસક્રમોમાં પ્રવેશ મેળવી પોતાના પ્રવર્તમાન રહેઠાણના તાલુકાની બહાર અભ્યાસ કરતા અને સરકારી/અનુદાનિત છાત્રાલયમાં પ્રવેશ નહી મળ્યો હોય તેવા વિદ્યાર્થીઓને વર્ષના ૧૦ મહિના માટે દર મહિને રૂ.૧,૨૦૦ રહેવા-જમવાની સહાય પેટે મળવાપાત્ર</string>
+
+    <string name="head_5">સાધન-પુસ્તક સહાય</string>
+    <string name="head_5_topic_1">\u25ba\u00a0\u00a0 MYSY યોજના અંતર્ગત સાધન-પુસ્તક સહાયમાં વધુ અભ્યાસક્રમોનો સમાવેશ કરવામાં આવેલ છે. (વન ટાઈમ)</string>
+
+    <string name="head_5_table_1">\u2022\u00a0\u00a0 મેડીકલ, ડેન્ટલ </string>
+    <string name="head_5_table_1_1">રૂ.૧૦,૦૦૦</string>
+
+    <string name="head_5_table_2">\u2022\u00a0\u00a0 ઈજનેરી, ટેકનોલોજી, ફાર્મસી, આર્કીટેક્ચર, એગ્રીકલ્ચર, આર્યુવેદ, હોમિયોપેથી, નર્સીંગ, ફીઝીયોથેરાપી, પેરા-મેડીકલ, વેટરનરી, ઇન્ટીરીયર ડીઝાઇન, પ્લાનીંગ, હોટેલ મેનેજમેન્ટ</string>
+    <string name="head_5_table_2_1">રૂ.૫,૦૦૦ </string>
+
+    <string name="head_5_table_3">\u2022\u00a0\u00a0 ડીપ્લોમાં અભ્યાસક્રમો </string>
+    <string name="head_5_table_3_1">રૂ.૩,૦૦૦ </string>
+
+
+    <string name="main_list">List of Documents</string>
+    <string name="head_6">For New Applications</string>
+    <string name="head_6_topic_1">\u2022\u00a0\u00a0 આધારકાર્ડની નકલ (સ્વપ્રમાણિત)</string>
+    <string name="head_6_topic_2">\u2022\u00a0\u00a0 ધોરણ-૧૦/ધોરણ-૧૨/ડિપ્લોમા પાસ કર્યાની માર્કશીટની નકલ (સ્વપ્રમાણિત),</string>
+    <string name="head_6_topic_3">\u2022\u00a0\u00a0 ડીગ્રી /ડિપ્લોમા અભ્યાસક્રમમાં પ્રવેશ મળ્યાનો પ્રવેશ સમિતિનો લેટરની નકલ (સ્વપ્રમાણિત),</string>
+    <string name="head_6_topic_4">\u2022\u00a0\u00a0 ટ્યુશન ફી ભર્યાની તમામ પહોંચની નકલ (સ્વપ્રમાણિત),</string>
+    <string name="head_6_topic_5">\u2022\u00a0\u00a0 સેલ્ફ ડેકલરેશન(અસલમાં) [Format available at mysy.guj.nic.in]</string>
+    <string name="head_6_topic_6">\u2022\u00a0\u00a0 સંસ્થાના આચાર્યશ્રીનું પ્રમાણપત્ર (સંસ્થાના લેટરહેડ પર, અસલમાં)  [Format available at mysy.guj.nic.in]</string>
+    <string name="head_6_topic_7">\u2022\u00a0\u00a0 વાલીની આવકનું પ્રમાણપત્ર(મામલતદાર અથવા તાલુકા વિકાસ અધિકારીનું)ની નકલ(સ્વપ્રમાણિત),</string>
+    <string name="head_6_topic_8">\u2022\u00a0\u00a0 હોસ્ટેલ પ્રવેશ તથા જમવાની તમામ પહોંચની નકલ (સ્વપ્રમાણિત),</string>
+    <string name="head_6_topic_9">\u2022\u00a0\u00a0નેશનલાઈઝડ બેન્કમાં બચત ખાતાની પાસબુકનું પ્રથમ પાનાની નકલ(સ્વપ્રમાણિત) </string>
+    <string name="head_6_topic_10">\u2022\u00a0\u00a0 ITR Copy / Non ITR Certificate </string>
+
+
+    <string name="head_7">For Renewal Applications</string>
+    <string name="head_7_topic_1">\u2022\u00a0\u00a0 વિદ્યાર્થીના આધારકાર્ડની નકલ (સ્વપ્રમાણિત)</string>
+    <string name="head_7_topic_2">\u2022\u00a0\u00a0 સંસ્થાના વડા પાસેથી શિષ્યવૃત્તિ રીન્યુઅલ માટેનું પ્રમાણપત્ર (અસલમાં)  [Format available at mysy.guj.nic.in]</string>
+    <string name="head_7_topic_3">\u2022\u00a0\u00a0 વિદ્યાર્થીના પ્રથમ/બીજા વર્ષની માર્કશીટની (સેમેસ્ટર સીસ્ટમ  હોય તો બન્ને સેમેસ્ટરની માર્કશીટ) નકલ (સ્વપ્રમાણિત)</string>
+    <string name="head_7_topic_4">\u2022\u00a0\u00a0 વિદ્યાર્થીએ સ્નાતક અભ્યાસક્રમના બીજા/ત્રીજા વર્ષમાં ફી ભર્યાની તમામ પહોંચની નકલ(સ્વપ્રમાણિત)</string>
+    <string name="head_7_topic_5">\u2022\u00a0\u00a0 હોસ્ટેલ પ્રવેશ તથા જમવાની તમામ પહોંચની નકલ (સ્વપ્રમાણિત),</string>
+    <string name="head_7_topic_6">\u2022\u00a0\u00a0 વિદ્યાર્થીના બેન્કના બચત ખાતાની પાસબુકનું પ્રથમ પાનાની નકલ(સ્વપ્રમાણિત) </string>
+
+
+    <string name="head_8">Steps for Online application </string>
+    <string name="head_8_topic_1">1.\u00a0\u00a0 Open www.mysy.guj.nic.in website.</string>
+    <string name="head_8_topic_2">2.\u00a0\u00a0 Click on NewApplication/Renew application as per application types</string>
+    <string name="head_8_topic_3">3.\u00a0\u00a0 First time you have to registered yourself in MYSY portal, Fill all the details and get Five digit password on mobile number</string>
+    <string name="head_8_topic_4">4.\u00a0\u00a0 Using seat no and password Do login and fill the application form step by steps</string>
+    <string name="head_8_topic_5">5.\u00a0\u00a0 Fill all personal details, admission details and hostel details in application
+</string>
+    <string name="head_8_topic_6">6.\u00a0\u00a0 Upload scan documents as per mention in portal.
+</string>
+    <string name="head_8_topic_7">7.\u00a0\u00a0 if you want  to upload extra relevant documents then upload from below browse box
+</string>
+    <string name="head_8_topic_8">8.\u00a0\u00a0 Lock the application and take print of it
+</string>
+    <string name="head_8_topic_9">9.\u00a0\u00a0 Verify all zerox with original at nearest help center
+</string>
+    <string name="help_center_1">\u25aa\u00a0\u00a0 List of Help Centers for Higher Education (BA, BCom, B.Sc, BBA, BCA etc) \u00a0\u00a0(\u25ba\u00a0CLICK HERE\u00a0\u00a0)</string>
+    <string name="help_center_2">\u25aa\u00a0\u00a0 List of Help Centers for Medical, Dental, Paramedical, Ayurvedic, Nursing etc. Courses\u00a0\u00a0\u00a0(\u25baCLICK HERE\u00a0\u00a0)</string>
+    <string name="help_center_3">\u25aa\u00a0\u00a0 List of Help Centers for Engineering, Pharmacy and Architecture etc. Courses\u00a0\u00a0\u00a0(\u25ba\u00a0CLICK HERE\u00a0\u00a0)</string>
+    <string name="help_center_4">\u25aa\u00a0\u00a0 List of Help Centers for Agriculture, Veterinary, Animal Husbandary and Fisheries etc. courses. \u00a0\u00a0\u00a0(\u25ba\u00a0CLICK HERE\u00a0\u00a0)</string>
+
+
+    <string name="head_8_topic_10">10. check your application status every week.
+</string>
+
+    <string name="head_9">શરતો</string>
+    <string name="head_9_en">(terms and conditions)</string>
+    <string name="head_9_topic_1">\u25ba\u00a0\u00a0 સ્વ-નિર્ભર અભ્યાસક્રમોમાં એન.આર.આઇ. બેઠકો પર પ્રવેશ મેળવતા વિદ્યાર્થીઓને આ યોજના હેઠળ લાભ મળવાપાત્ર થશે નહી.</string>
+    <string name="head_9_topic_2">\u25ba\u00a0\u00a0 ઉચ્ચ શિક્ષણ સહાય માટેની રાજ્ય સરકાર અથવા ભારત સરકારની વિવિધ યોજનાઓ અથવા અન્ય કોઇ યોજનાઓ પૈકી કોઇ એક યોજના હેઠળ સહાય મળવાપાત્ર.</string>
+    <string name="head_9_topic_3">\u25ba\u00a0\u00a0 મંજૂર થયેલ મળવાપાત્ર સહાયની રકમ વિદ્યાર્થીઓના બેન્ક એકાઉન્ટમાં ડીબીટીથી સીધી જમા. </string>
+    <string name="head_9_topic_4">\u25ba\u00a0\u00a0 સહાય મેળવનાર વિદ્યાર્થી સામે સંસ્થાના નીતિ નિયમો અથવા નૈતિક ધોરણો પ્રમાણે ગંભીર શિસ્ત વિષયક કાર્યવાહી થઇ હશે તો આવો વિદ્યાર્થી સહાય મેળવવા માટે અથવા ચાલુ રાખવા માટે ગેરલાયક. </string>
+    <string name="head_9_topic_5">\u25ba\u00a0\u00a0 કોઇ વિદ્યાર્થી ખોટી વિગતો કે ખોટુ આવકનું પ્રમાણપત્ર રજુ કરીને છેતરપિંડીથી સહાય મેળવે તો વિદ્યાર્થી પાસેથી સહાયની તમામ રકમ ૧૮%ના દંડનીય વ્યાજ સહિત પરત કરાવવા ઉપરાંત કાયદેસરની કાર્યવાહી </string>
+    <string name="head_9_topic_6">\u25ba\u00a0\u00a0 વિદ્યાર્થીએ પ્રવેશ મેળવ્યા પછીના ક્રમિક શૈક્ષણિક વર્ષમાં રીન્યુઅલ સહાય મેળવવા માટે અગાઉ જે વર્ષે સહાય મળી હોય તે પરીક્ષામાં ઓછામાં ઓછા ૫૦% માર્ક્સ સાથે ઉત્તિર્ણ      </string>
+    <string name="head_9_topic_7">\u25ba\u00a0\u00a0 સહાય મેળવનાર વિદ્યાર્થીઓની જે તે શૈક્ષણિક સંસ્થાના નીતિ નિયમો પ્રમાણે જે તે શૈક્ષણિક વર્ષમાં ઓછામાં ઓછી ૭૫% હાજરી </string>
+
+
+    <string name="help">Click on the Step to Open the Image.</string>
+    <string name="got_it">Got it !</string>
+    <string name="med_fee">2,00,000</string>
+    <string name="eng_fee">50,000</string>
+    <string name="dip_fee">25,000</string>
+    <string name="b_fee">10,000</string>
+
+    <string name="hostel">12,000</string>
+
+    <string name="med_book">10,000</string>
+    <string name="eng_book">5,000</string>
+    <string name="dip_book">3,000</string>
+    <string name="b_book">0</string>
+
+    <string name="calculate">Calculate</string>
+    <string name="calculater_head">Calculate Your Sahay</string>
+    <string name="hostel_warning">Please verify the hostel type (Ex.Gia, Private etc.)</string>
+
+
+</resources>

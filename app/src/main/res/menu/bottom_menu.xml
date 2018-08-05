@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/home">
+    <item
+        android:id="@+id/list"
+        android:color="@color/colorPrimary"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="@string/lable_list" />
+    <item
+        android:id="@+id/step"
+        android:color="@android:color/holo_green_dark"
+        android:icon="@drawable/ic_format_list_numbered_black_24dp"
+        android:title="@string/lable_step" />
+    <item
+        android:id="@+id/home"
+        android:color="@color/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/lable_home" />
+    <item
+        android:id="@+id/calculate"
+        android:color="@color/colorPrimary"
+        android:icon="@drawable/ic_calculator"
+        android:title="@string/lable_calculate" />
+    <item
+        android:id="@+id/video"
+        android:color="@color/youtube"
+        android:icon="@drawable/youtube_button"
+        android:title="@string/lable_video" />
+</menu>
